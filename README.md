@@ -172,7 +172,7 @@ Los generadores eléctricos están basados en los principios de la inducción el
 
 10. Cierta fuente de corriente proporciona 100 mA a 1 k_ de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?
 
-![image](https://user-images.githubusercontent.com/105298935/169195392-6b27c8bf-5877-492d-b370-c41392b08a80.png)
+![image](https://user-images.githubusercontent.com/105298935/169351608-e13af4ad-8134-4370-b446-c89bdc161a66.png)
 
 11. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
