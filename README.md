@@ -263,6 +263,8 @@ La resistencia entre cada terminal es de R= 200
 
 ## 4.- VIDEO
 
+https://youtu.be/8QfStfACpXQ
+
 ## 5.- CONCLUCIONES
 •	Se realizo una investigación más a fondo en páginas o libros para comprender de una mejor manera cada una de las unidades de medida debido a que existe una gran variedad de medidas en diferentes sistemas
 
