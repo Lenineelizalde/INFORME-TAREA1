@@ -123,17 +123,6 @@ De igual manera aprendemos a distinguir cada una de las partes de la corriente e
 
 ![image](https://user-images.githubusercontent.com/105298935/169177634-fa013e74-ecc4-4baf-8f65-6e536acf02fa.png)
 
-12. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
-
-
-
-13.Exprese cada cantidad en notación de ingeniería:
-
-
-14. Determine lo siguiente:
-
-
-15. Realize las siguientes operaciones:
 
 ### 3.2 Ejercicios Capitulo #2
 
@@ -292,33 +281,4 @@ La resistencia entre cada terminal es de R= 200
 ## 6.- BIBLIOGRAFIA
 
 Floyd, T. (2007). Principios de Circuitos Eléctricos octava edicion. Mexico: Pearson Edicacion.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
