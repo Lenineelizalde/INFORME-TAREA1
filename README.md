@@ -30,7 +30,7 @@ En estos capítulos podemos conocer cada una de las unidades de medida del Siste
 
 De igual manera aprendemos a distinguir cada una de las partes de la corriente eléctrica su uso y aplicación de manera adecuada esto nos permite poder desarrollar cada una de sus formulas a partir de ya dados o datos calculados tal y como se muestra en los siguientes mapas conceptuales. (Floyd, 2007)
 
-### - Unidades de medicion "Sistema Internacional" (SI).
+### - Unidades en el "Sistema Internacional" (SI)
  
 ![image](https://user-images.githubusercontent.com/105298935/169128609-30e10b3d-f96e-4a65-846a-4c13c066e747.png)
 
